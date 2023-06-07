@@ -2,7 +2,22 @@
 
 To view a demonstration of this, please watch "Security Like The '80s : How I Stole Your RF" @ [CarHackingVillage DEFCON30 Talks](https://www.carhackingvillage.com/talks)!
 
+<<<<<<<< HEAD:Sub-GHz/Vehicles/Honda/ReadMe.md
 Plenty more info, including the details needed to add to your settings, [over at the ReadMe](https://github.com/nonamecoder/FlipperZeroHondaFirmware#readme). These files were built for the keyfob with FCC ID: `KR5V2X` to demonstrate CVE-2022-27254.
+========
+Official Firmware: [Main](https://github.com/flipperdevices/flipperzero-firmware) | [Release](https://github.com/flipperdevices/flipperzero-firmware/releases)
+
+SquachWare Firmware: [Main](https://github.com/skizzophrenic/SquachWare-CFW) | [Release](https://github.com/skizzophrenic/SquachWare-CFW/releases) *Fork of Official, remains locked*
+
+Unleashed Firmware: [Main](https://github.com/Eng1n33r/flipperzero-firmware) | [Release](https://github.com/Eng1n33r/flipperzero-firmware/releases) *Fork of Official, unlocks many things*
+
+RogueMaster Firmware: [Main](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) | [Release](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases) *Fork of Official, Features of Unleashed, many customizations*<br>
+*- (NOTE: Current builds available with Patreon subscription, weekly builds released on Github)*
+
+Xtreme (ClaraCrazy) Firmware [Main](https://github.com/ClaraCrazy/Flipper-Xtreme) | [Release](https://github.com/ClaraCrazy/Flipper-Xtreme/releases) *Fork of Official, Features of Unleashed, many customizations and bug fixes*
+
+Dexv Firmware: [Main](https://github.com/DXVVAY/Dexvmaster0) | [Release](https://github.com/DXVVAY/Dexvmaster0/releases) *Fork of ClaraCrazy, adds resources*
+>>>>>>>> upstream/main:Firmware_Options/ReadMe.md
 
 -----
 

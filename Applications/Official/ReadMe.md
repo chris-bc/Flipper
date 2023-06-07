@@ -2,10 +2,17 @@
 
 See the [official documentation](https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/AppsOnSDCard.md) or **download all the files** in a [ZIP here](https://uberguidoz.github.io/DownGit/#/home?url=https://github.com/UberGuidoZ/Flipper/tree/main/Applications/Official)!
 
-## A humble thank you to [Aleksandr Zhytnyk](https://github.com/OperKH) for maintaining the FAPs for Official firmware!
-[Alexei Humeniy](https://github.com/ahumeniy) has also contributed a number of updates and was the first to update.
+---
+*** **Unofficial FAP Store is here! [You gotta check it out at FlipC.org](https://flipc.org/)** ***<br>
+From [Aleksey Korolev](https://github.com/playmean) comes a quick and easy way to install FAP files.
+---
 
-They have been compiled for the current API version (7.x), but if you run across any not here, please PR them in! (Or tag me in Discord...)
+A humble thank you to [Alexei Humeniy](https://github.com/ahumeniy) for maintaining the FAPs for Official firmware!<br>
+Missing or outdated FAPs may be found from [kyhwana](https://github.com/kyhwana/latest_flipper_zero_apps) or [grnch](https://github.com/grinchdubs/latest_flipper_zero_apps), plus [Aleksandr Zhytnyk](https://github.com/OperKH) has also contributed a number of updates.
+
+Currently compiled for API versions compatible with 0.78.1 - authors will need to update for 0.79.x due to the `ValueMutex` being changed.<br>
+If you run across any not here, or wish to contirbute updates, please PR them in! (Or tag me in Discord...)<br>
+**NOTE: Some apps which use audio won't work due to a new pattern for audio access.** ([More info](https://github.com/UberGuidoZ/Flipper/pull/257))
 
 [Links to full application name and authors](https://github.com/UberGuidoZ/Flipper/tree/main/Applications/Unleashed%20(and%20RogueMaster))
 
@@ -23,7 +30,8 @@ I've had so many asking for me to add this.<br>
 **BTC**: `3AWgaL3FxquakP15ZVDxr8q8xVTc5Q75dS`<br>
 **BCH**: `17nWCvf2YPMZ3F3H1seX8T149Z9E3BMKXk`<br>
 **ETH**: `0x0f0003fCB0bD9355Ad7B124c30b9F3D860D5E191`<br>
-**LTC**: `M8Ujk52U27bkm1ksiWUyteL8b3rRQVMke2`
+**LTC**: `M8Ujk52U27bkm1ksiWUyteL8b3rRQVMke2`<br>
+**PayPal**: `uberguidoz@gmail.com`
 
 So, here it is. All donations of *any* size are humbly appreciated.<br>
 ![Flipper_Clap](https://user-images.githubusercontent.com/57457139/183561789-2e853ede-8ef7-41e8-a67c-716225177e5d.jpg) ![Flipper_OMG](https://user-images.githubusercontent.com/57457139/183561787-e21bdc1e-b316-4e67-b327-5129503d0313.jpg)

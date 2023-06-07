@@ -1,7 +1,7 @@
 # WARNING ABOUT JAMMING - This is probably illegal to do.
 
  These files are for educational use to determine ways the Flipper can work, how jamming works, and reviewing preventative actions[.](https://github.com/SHUR1K-N/Flipper-Zero-Sub-GHz-Jamming)<br>
-Files are UNTESTED and may cause magic smoke. Generated with a HackRF and recorded with the Flipper. *(Credit: dandri#6962 on Discord)*
+Files are UNTESTED and may cause magic smoke. Generated with a HackRF and recorded with the Flipper.
 
 -----
 
@@ -28,11 +28,11 @@ For many it’s just a prank, but interfering with public safety communication i
 
 ## UK
 
-It is a crime to use any apparatus, including jammers, for the purposes of deliberately interfering with wireless telegraphy (radio communications) in the UK. 
+It is a crime to use any apparatus, including jammers, for the purposes of deliberately interfering with wireless telegraphy (radio communications) in the UK.
 
 The maximum penalty is two years imprisonment and/or an unlimited fine. See [section 68](https://www.legislation.gov.uk/ukpga/2006/36/section/68) of the [Wireless Telegraphy Act 2006.](https://www.legislation.gov.uk/ukpga/2006/36/contents)
 
-If you manufacture, import or distribute jammers, you may be committing a crime. 
+If you manufacture, import or distribute jammers, you may be committing a crime.
 
 The Electromagnetic Compatibility (EMC) Directive 2014/30/EU, which has been implemented into UK law by the Electromagnetic Compatibility Regulations 2016 (S.I. 2016/1091), places strict requirements on all electrical and electronic apparatus placed on the market or taken into service in the UK. The requirements state that apparatus must not cause excessive interference.
 

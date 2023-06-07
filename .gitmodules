@@ -1,24 +1,54 @@
 [submodule "Sub-GHz/flipperzero-bruteforce"]
 	path = Sub-GHz/flipperzero-bruteforce
 	url = https://github.com/tobiabocchi/flipperzero-bruteforce
-[submodule "BadUSB/Jakoby_BadUSB"]
-	path = BadUSB/Jakoby_BadUSB
-	url = https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB
 [submodule "BadUSB/Flipper_Zero_Badusb_hack5_payloads"]
 	path = BadUSB/Flipper_Zero_Badusb_hack5_payloads
 	url = https://github.com/nocomp/Flipper_Zero_Badusb_hack5_payloads/
-[submodule "BadUSB/BadUSB-FalsePhilosopher"]
-	path = BadUSB/BadUSB-FalsePhilosopher
-	url = https://github.com/FalsePhilosopher/BadUSB-Playground
 [submodule "Sub-GHz/Restaurant_Pagers/LRS_Pagers/thanks_jimilinuxguy/lrs-pager-systems-bruteforce"]
 	path = Sub-GHz/Restaurant_Pagers/LRS_Pagers/thanks_jimilinuxguy/lrs-pager-systems-bruteforce
 	url = https://github.com/jimilinuxguy/lrs-pager-systems-bruteforce
-[submodule "Infrared/IRDB"]
-	path = Infrared/IRDB
-	url = https://github.com/logickworkshop/Flipper-IRDB.git
 [submodule "Music_Player/RTTTL"]
 	path = Music_Player/RTTTL
 	url = https://github.com/neverfa11ing/FlipperMusicRTTTL.git
 [submodule "NFC/Amiibo/Amiibo_Collection"]
 	path = NFC/Amiibo/Amiibo_Collection
 	url = https://github.com/Gioman101/FlipperAmiibo.git
+[submodule "Graphics/TalkingSasquach"]
+	path = Graphics/TalkingSasquach
+	url = https://github.com/skizzophrenic/Talking-Sasquach.git
+[submodule "Graphics/Kuronons"]
+	path = Graphics/Kuronons
+	url = https://github.com/Kuronons/FZ_graphics.git
+[submodule "BadUSB/UNC0V3R3D-BadUSB"]
+	path = BadUSB/UNC0V3R3D-BadUSB
+	url = https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb
+[submodule "BadUSB/atomiczsec-BadUSB"]
+	path = BadUSB/atomiczsec-BadUSB
+	url = https://github.com/atomiczsec/My-Payloads
+[submodule "Graphics/Haseosama"]
+	path = Graphics/Haseosama
+	url = https://github.com/Haseosama/FZ_Animations
+[submodule "BadUSB/FalsePhilosopher"]
+	path = BadUSB/FalsePhilosopher
+	url = https://github.com/FalsePhilosopher/badusb
+[submodule "Graphics/SynthetikSpace"]
+	path = Graphics/SynthetikSpace
+	url = https://github.com/synthetikspace/SynthetikSpace-FZ-Animations
+[submodule "Graphics/HexxedBitHeadz"]
+	path = Graphics/HexxedBitHeadz
+	url = https://github.com/HexxedBitHeadz/FlipperZeroWallpaper
+[submodule "Sub-GHz/Customer_Assistance_Buttons/Jimi-Cust-Buttons"]
+	path = Sub-GHz/Customer_Assistance_Buttons/Jimi-Cust-Buttons
+	url = https://github.com/jimilinuxguy/customer-assistance-buttons-sdr
+[submodule "Sub-GHz/Vehicles/TPMS-Flipper"]
+	path = Sub-GHz/Vehicles/TPMS-Flipper
+	url = https://github.com/Crsarmv7l/TPMS-Flipper
+[submodule "Sub-GHz/Restaurant_Pagers/Pagger-Generator"]
+	path = Sub-GHz/Restaurant_Pagers/Pagger-Generator
+	url = https://github.com/meoker/pagger
+[submodule "BadUSB/Kavitate-BadUSB"]
+	path = BadUSB/Kavitate-BadUSB
+	url = https://github.com/Kavitate/FlipperZeroBadUSB
+[submodule "NFC/Amiibo/Lanjelin-Converter"]
+	path = NFC/Amiibo/Lanjelin-Converter
+	url = https://github.com/Lanjelin/AmiiboConverter
