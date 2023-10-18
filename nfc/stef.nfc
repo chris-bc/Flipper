@@ -1,0 +1,9 @@
+Filetype: Flipper NFC device
+Version: 3
+# Nfc device type can be UID, Mifare Ultralight, Mifare Classic or ISO15693
+Device type: UID
+# UID is common for all formats
+UID: 07 87 FB D5
+# ISO14443 specific fields
+ATQA: 00 08
+SAK: 28

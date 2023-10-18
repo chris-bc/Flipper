@@ -1,0 +1,10 @@
+Filetype: IFTTT Virtual Button Config File
+Version: 1
+# Enter here the SSID of the wifi network
+wifi_ssid: 
+# Enter here the PASSWORD of the wifi network
+wifi_password: 
+# Enter here the WEBHOOKS of your IFTTT account
+webhooks_key: 
+# Enter here the EVENT name of your trigger
+event: 

@@ -1,0 +1,8 @@
+SNIFF
+Rate: 0
+Ch: 25
+ESB: 1
+DPL: 0
+CRC: 2
+Payload: 1
+P0: 0055

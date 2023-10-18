@@ -1,0 +1,14 @@
+#scanap
+Starting AP scan. Stop with stopscan
+Clearing APs...0
+> RSSI: -44 Ch: 5 BSSID: 20:e8:82:ee:d7:d4 ESSID: Whymper2.4 
+Beacon: 11 14 1
+RSSI: -70 Ch: 6 BSSID: d8:0d:17:56:9a:0e ESSID: TP-LINK_Smart Plug_9A0E 
+Beacon: 21 04 2
+RSSI: -90 Ch: 13 BSSID: 4c:6e:6e:ed:cc:4f ESSID: Southern_WiFi 
+Beacon: 11 04 3
+RSSI: -61 Ch: 1 BSSID: bc:30:d9:b2:08:1b ESSID: TelstraB20819 
+Beacon: 11 14 4
+#stopscan
+Stopping WiFi tran/recv
+> 

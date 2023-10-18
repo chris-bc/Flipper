@@ -1,0 +1,32 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: Power
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 52 00 00 00
+# 
+name: High_low
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 4E 00 00 00
+# 
+name: Set
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 40 00 00 00
+# 
+name: Up
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 41 00 00 00
+# 
+name: Down
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 44 00 00 00

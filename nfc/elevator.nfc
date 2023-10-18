@@ -1,0 +1,55 @@
+Filetype: Flipper NFC device
+Version: 3
+# Nfc device type can be UID, Mifare Ultralight, Mifare Classic or ISO15693
+Device type: Mifare DESFire
+# UID is common for all formats
+UID: 04 50 29 AA 9F 70 80
+# ISO14443 specific fields
+ATQA: 03 44
+SAK: 20
+# Mifare DESFire specific data
+PICC Version: 04 01 01 12 00 18 05 04 01 01 02 01 18 05 04 50 29 AA 9F 70 80 CF 2D D7 65 90 40 20
+PICC Free Memory: 4704
+PICC Change Key ID: 00
+PICC Config Changeable: true
+PICC Free Create Delete: true
+PICC Free Directory List: true
+PICC Key Changeable: true
+PICC Flags: 08
+PICC Max Keys: 01
+PICC Key 0 Version: 01
+Application Count: 2
+Application IDs: F4 81 20 F4 81 2F
+Application f48120 Change Key ID: 00
+Application f48120 Config Changeable: true
+Application f48120 Free Create Delete: false
+Application f48120 Free Directory List: true
+Application f48120 Key Changeable: true
+Application f48120 Flags: 08
+Application f48120 Max Keys: 03
+Application f48120 Key 0 Version: 01
+Application f48120 Key 1 Version: 01
+Application f48120 Key 2 Version: 01
+Application f48120 File IDs: 00 01
+Application f48120 File 0 Type: 00
+Application f48120 File 0 Communication Settings: 03
+Application f48120 File 0 Access Rights: 00 20
+Application f48120 File 0 Size: 16
+Application f48120 File 1 Type: 00
+Application f48120 File 1 Communication Settings: 03
+Application f48120 File 1 Access Rights: 00 20
+Application f48120 File 1 Size: 16
+Application f4812f Change Key ID: 00
+Application f4812f Config Changeable: true
+Application f4812f Free Create Delete: false
+Application f4812f Free Directory List: true
+Application f4812f Key Changeable: true
+Application f4812f Flags: 08
+Application f4812f Max Keys: 01
+Application f4812f Key 0 Version: 01
+Application f4812f File IDs: 00
+Application f4812f File 0 Type: 00
+Application f4812f File 0 Communication Settings: 00
+Application f4812f File 0 Access Rights: 00 E0
+Application f4812f File 0 Size: 36
+Application f4812f File 0: 01 0E 3D 20 81 F4 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00

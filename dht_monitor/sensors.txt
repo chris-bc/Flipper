@@ -1,0 +1,5 @@
+#DHT monitor sensors file
+#Name - name of sensor. Up to 10 sumbols
+#Type - type of sensor. DHT11 - 0, DHT22 - 1
+#GPIO - connection port. May being 2-7, 10, 12-17
+#Name Type GPIO

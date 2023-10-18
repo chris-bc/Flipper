@@ -1,0 +1,212 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: Play
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 938 32505 656 32650 630 32679 602 32481 602 32521 603
+# 
+name: Stop
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 966 32551 628 32606 632 32642 604 32442 603 32487 604
+# 
+name: Back
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 964 32533 659 32625 631 32662 601 32463 601
+# 
+name: Forward
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 965 32556 629 32579 632 32609 606 32678 603
+# 
+name: Pause
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 996 32501 686 32545 660 32574 658 32612 633
+# 
+name: Seek_back
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 995 32514 689 32579 660 32610 630 32411 633
+# 
+name: Seek_forward
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 996 32515 687 32570 630 32555 660 32649 634
+# 
+name: Open_close
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 965 32417 745 32538 716 32545 716 32594 686
+# 
+name: Display
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 995 32437 744 32533 686 32502 717 32612 715
+# 
+name: Ams
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 964 32437 745 32521 716 32519 717
+# 
+name: Random
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 996 32500 718 32484 690
+# 
+name: A_b
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 965 32473 745 32601 717 32612 688 32445 687
+# 
+name: 1
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 994 32485 746 32620 686 32594 689
+# 
+name: 2
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 995 32513 743 32624 715 32632 689 32465 688
+# 
+name: 3
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 996 32506 744 32612 716 32616 688 32439 631
+# 
+name: 4
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 966 32535 717 32649 686 32650 658 32481 688 32509 689
+# 
+name: 5
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 965 32553 688 32663 662 32681 687
+# 
+name: 6
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 964 32556 687 32671 716 32641 688
+# 
+name: 7
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 964 32576 686 32566 690 32559 690
+# 
+name: 8
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 962 32563 689 32673 662 32682 688
+# 
+name: 9
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 964 32593 681 32655 685 32677 659
+# 
+name: 0
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 966 32582 687 32566 657 32551 659 32661 661
+# 
+name: Program
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 963 32569 690 32677 662 32687 691 32493 688
+# 
+name: Cancel
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 966 32510 744 32560 717 32548 716
+# 
+name: Time
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 964 32541 716 32452 714 32632 689 32549 690
+# 
+name: Scroll_recall
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 994 32543 717 32524 688 32508 689 32622 688
+# 
+name: Text
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 964 32554 687 32643 660 32635 659 32703 663 32505 663
+# 
+name: Menu
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 938 32578 687 32595 660 32573 660 32681 688
+# 
+name: Enter
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 997 32513 744 32494 717 32466 659 32629 660
+# 
+name: Index_down
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 994 32481 772 32623 743 32619 685 32493 660 32588 660
+# 
+name: Index_up
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 934 32517 743 32642 714 32637 687 32475 685
+# 
+name: Quick_replay
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 995 32503 773 32614 745 32608 716 32448 715 32515 716
+# 
+name: Pitch_down
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 963 32521 742 32611 714 32593 714 32670 688 32505 689
+# 
+name: Pitch_up
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 996 32498 744 32602 716 32580 744 32670 686 32500 686
+# 
+name: Pitch_reset
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 995 32511 773 32591 742 32564 744 32637 686 32505 661

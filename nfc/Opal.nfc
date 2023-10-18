@@ -1,0 +1,69 @@
+Filetype: Flipper NFC device
+Version: 3
+# Nfc device type can be UID, Mifare Ultralight, Mifare Classic or ISO15693
+Device type: Mifare DESFire
+# UID is common for all formats
+UID: 04 6B 4A 6A AB 62 80
+# ISO14443 specific fields
+ATQA: 03 44
+SAK: 20
+# Mifare DESFire specific data
+PICC Version: 04 01 01 01 00 18 05 04 01 01 01 04 18 05 04 6B 4A 6A AB 62 80 B9 0C 19 45 80 18 19
+PICC Free Memory: 3456
+PICC Change Key ID: 00
+PICC Config Changeable: true
+PICC Free Create Delete: false
+PICC Free Directory List: true
+PICC Key Changeable: true
+PICC Max Keys: 01
+PICC Key 0 Version: DF
+Application Count: 1
+Application IDs: 31 45 53
+Application 314553 Change Key ID: 0E
+Application 314553 Config Changeable: true
+Application 314553 Free Create Delete: false
+Application 314553 Free Directory List: true
+Application 314553 Key Changeable: true
+Application 314553 Flags: 08
+Application 314553 Max Keys: 07
+Application 314553 Key 0 Version: 00
+Application 314553 Key 1 Version: 00
+Application 314553 Key 2 Version: 00
+Application 314553 Key 3 Version: 00
+Application 314553 Key 4 Version: 00
+Application 314553 Key 5 Version: 00
+Application 314553 Key 6 Version: 00
+Application 314553 File IDs: 00 01 02 03 04 05 06 07
+Application 314553 File 0 Type: 00
+Application 314553 File 0 Communication Settings: 03
+Application 314553 File 0 Access Rights: FF 3F
+Application 314553 File 0 Size: 16
+Application 314553 File 1 Type: 00
+Application 314553 File 1 Communication Settings: 03
+Application 314553 File 1 Access Rights: FF 2F
+Application 314553 File 1 Size: 16
+Application 314553 File 2 Type: 00
+Application 314553 File 2 Communication Settings: 03
+Application 314553 File 2 Access Rights: 31 23
+Application 314553 File 2 Size: 128
+Application 314553 File 3 Type: 00
+Application 314553 File 3 Communication Settings: 03
+Application 314553 File 3 Access Rights: 51 25
+Application 314553 File 3 Size: 32
+Application 314553 File 4 Type: 00
+Application 314553 File 4 Communication Settings: 03
+Application 314553 File 4 Access Rights: 41 24
+Application 314553 File 4 Size: 48
+Application 314553 File 5 Type: 00
+Application 314553 File 5 Communication Settings: 03
+Application 314553 File 5 Access Rights: 31 23
+Application 314553 File 5 Size: 240
+Application 314553 File 6 Type: 00
+Application 314553 File 6 Communication Settings: 03
+Application 314553 File 6 Access Rights: 31 23
+Application 314553 File 6 Size: 480
+Application 314553 File 7 Type: 00
+Application 314553 File 7 Communication Settings: 00
+Application 314553 File 7 Access Rights: 31 E3
+Application 314553 File 7 Size: 16
+Application 314553 File 7: 89 BF E7 01 C7 08 80 7A 00 E0 F7 0A 83 00 5B FD
