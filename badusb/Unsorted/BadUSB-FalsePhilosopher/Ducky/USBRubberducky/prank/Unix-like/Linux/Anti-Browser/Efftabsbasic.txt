@@ -1,0 +1,4 @@
+REM FalsePhilosopher
+DELAY 300
+CTRL+W
+REPEAT 69
