@@ -3,14 +3,14 @@
 <img src="https://github.com/UNC0V3R3D/ressources/blob/main/badusbpicnew.png" height="380" width="1050" >
 
 ![GitHub all releases](https://img.shields.io/github/downloads/UNC0V3R3D/Flipper_Zero-BadUsb/total?logo=GitHub) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/UNC0V3R3D/Flipper_Zero-BadUsb) ![GitHub repo size](https://img.shields.io/github/repo-size/UNC0V3R3D/Flipper_Zero-BadUsb) ![GitHub release (release name instead of tag name)](https://img.shields.io/github/v/release/UNC0V3R3D/Flipper_Zero-BadUsb?include_prereleases)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=jo.112.nas@gmail.com&lc=US&no_note=0&item_name=Thank+you+for+supporting+UNC0V3R3D's+Github+Project.&cn=&curency_code=EUR&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted)
+
 
 
 # Before you start!
 
-Join the Discord-Community: https://discord.gg/WWQETvS8Vv <br>
-Flipper Related Forum: ----
+Join the Discord-Community: https://discord.gg/rabbit-labs <br>
 
+## Important:
 In order to begin, you ``must read and accept`` the usage agreement. **This project is for educational purposes only**! Please seek permission before running any of the scripts provided by me. I cannot be held responsible for any damage that may occur as a result of your use of these scripts.
 If you want to purchase a completely unique and personalized script contact me on discord.
 ![](header.png)
